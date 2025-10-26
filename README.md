@@ -43,3 +43,22 @@ El valor de VortexSpira reside en su diseño técnico, optimizado para la eficie
 ***
 
 ### **🎯 Conviértete en Arquitecto o QA Holístico: Tu Dominio Técnico Comienza Aquí.**
+
+---
+
+## Licencia y Derechos de Uso
+
+La plataforma **VortexSpira®** es un software comercial propietario.
+
+* **Copyright © 2025 Diego González Fernández.** Todos los derechos reservados.
+* El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart).
+* La distribución, modificación o ingeniería inversa del software están estrictamente prohibidas sin acuerdo previo por escrito con el autor.
+* La marca VortexSpira® está registrada o en proceso de registro.
+* La creación intelectual de la plataforma está registrada en **Safe Creative** ([**🛡️ Registro de Derechos**](https://www.safecreative.org)).
+
+El **contenido de los cursos** que se ejecutan en esta plataforma se licencia por separado bajo sus propios términos al adquirir cada producto.
+
+---
+
+© 2025 Diego González Fernández
+[LinkedIn](https://www.linkedin.com/in/diego-gonzalez-fernandez)
