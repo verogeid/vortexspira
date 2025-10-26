@@ -19,6 +19,8 @@ El valor de VortexSpira reside en su diseño técnico, optimizado para la eficie
 
 ### 🔗 **Continuidad y Portabilidad (Multidispositivo)**
 
+* **Diseño 100% Responsive:** La interfaz está diseñada para adaptarse perfectamente a cualquier tamaño de pantalla, desde móviles y tabletas hasta ordenadores de escritorio.
+* **Aprendizaje Offline Híbrido:** Inicia sesión y carga tu módulo una vez, y luego consume **todo el contenido del módulo sin conexión** a internet. Perfecto para viajar o zonas de baja cobertura. La conexión solo es necesaria para validar tu licencia, cambiar de módulo o sincronizar tu progreso.
 * **Sincronización Automática (En Desarrollo):** Podrás pausar una lección en un dispositivo y continuar **exactamente en la misma frase** en otro, garantizando la continuidad de la sesión.
 * **Compatibilidad Total:** La interfaz es completamente accesible y navegable con el **teclado** y compatible con **lectores de pantallas** (ARIA).
 * **Control de Playback:** Haz clic en **cualquier frase de la pantalla** para saltar instantáneamente a ese punto y reanudar la narración.
@@ -30,11 +32,13 @@ El valor de VortexSpira reside en su diseño técnico, optimizado para la eficie
 * **Modales Estables:** Los menús de configuración y activación tienen un **tamaño máximo fijo** que previene "saltos" en el diseño (`CLS`).
 * **Botones Visibles y Profesionales:** Controles clave como Guardar (💾) y Activar (🔓) utilizan un diseño minimalista ("Ghost Button") que se **ilumina en el borde** al interactuar.
 
-### 🛠️ **Flujo de Licencias y Catálogo**
+### 🛠️ **Flujo de Licencias, Certificación y Catálogo**
 
 * **Gestión Centralizada:** El modal de activación te permite **actualizar tu clave global** en cualquier momento.
-* **Transparencia de Acceso:** Muestra un **catálogo de productos adquiridos** y **módulos disponibles para la compra (🛒)**, con altura limitada y scroll.
-* **Acceso Visual:** Los capítulos se desbloquean en tiempo real en el selector, reemplazando el candado (🔒).
+* **🛒 Catálogo Inteligente:** Muestra un **catálogo de productos adquiridos** y **módulos disponibles para la compra**, con altura limitada y scroll.
+* **🎓 Validación de Conocimientos (En Desarrollo):** Cada producto adquirido en tu catálogo incluirá un **enlace directo (🏆) al examen de certificación** correspondiente en Hotmart, donde obtendrás tu certificado de conocimientos, verificable con QR.
+* **✍️ Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y **debes marcarlas todas** para acertar. Se requiere un 70% para aprobar.
+* **🔒 Acceso Visual:** Los capítulos se desbloquean en tiempo real en el selector, reemplazando el candado (visible si no se ha adquirido el módulo).
 
 ***
 
