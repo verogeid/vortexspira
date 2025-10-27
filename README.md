@@ -18,11 +18,13 @@
 
 VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
 
-Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido directamente desde la plataforma.
+Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
+
+![Selector de capítulos con módulos bloqueados y desbloqueados](./images/freemium-desktop.png)
 
 ***
 
-## 📸 Un Vistazo a la Plataforma VortexSpira®
+## 📸 Un Vistazo a la Plataforma (Desktop vs. Mobile)
 
 Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya sea en tu escritorio o en tu móvil.
 
