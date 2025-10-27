@@ -24,14 +24,13 @@ Podrás explorar la interfaz, probar la metodología y aprender los fundamentos 
 
 ## 📸 Un Vistazo a la Plataforma VortexSpira®
 
-Así es como se ve y se siente el aprendizaje sin fricción. Una interfaz limpia y potente, tanto en escritorio como en móvil.
+Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya sea en tu escritorio o en tu móvil.
 
-| Característica Clave | Interfaz de la Plataforma |
-| :--- | :---: |
-| **Aprendizaje Inmersivo y Sincronizado** <br/> La voz del mentor se sincroniza a la perfección con el texto resaltado, guiándote en cada paso. | ![Vista principal del audiolibro](./images/desktop-view.png) |
-| **Control Total y Personalización** <br/> Tu "joya de la corona": ajusta fuentes, tamaños, y personaliza la voz y el tono de cada personaje para una experiencia a tu medida. | ![Modal de configuración de voces y fuente](./images/config-desktop.png) |
-| **Ecosistema y Biblioteca de Cursos** <br/> Activa tus productos y descubre nuevos cursos para ampliar tu biblioteca de conocimientos desde un único lugar. | ![Modal de activación de productos y catálogo](./images/activate-desktop.png) |
-| **Acceso y Progreso Visual** <br/> Tu mapa de aprendizaje es claro. Accede a tus capítulos y visualiza los módulos bloqueados (🔒), listos para ser desbloqueados. | ![Selector de capítulos con módulos bloqueados y desbloqueados](./images/freemium-desktop.png) |
+| Característica Clave | Vista de Escritorio (Desktop) | Vista Móvil (Mobile) |
+| :--- | :---: | :---: |
+| **Aprendizaje Inmersivo** <br/> La misma experiencia de audio-aprendizaje sincronizado en cualquier pantalla. | ![Vista principal del audiolibro en escritorio](./images/desktop-view.png) | ![Vista principal del audiolibro en móvil](./images/mobile-view.png) |
+| **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | ![Modal de configuración en escritorio](./images/config-desktop.png) | ![Modal de configuración en móvil](./images/config-mobile.png) |
+| **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | ![Modal de activación en escritorio](./images/activate-desktop.png) | ![Modal de activación en móvil](./images/activate-mobile.png) |
 
 ***
 
