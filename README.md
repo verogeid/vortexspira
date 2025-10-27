@@ -20,7 +20,9 @@ VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, l
 
 Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
 
-<img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="600" target="_top"/>
+<div align="center">
+  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
+</div>
 
 ***
 
@@ -30,9 +32,9 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 
 | Característica Clave | Vista de Escritorio (Desktop) | Vista Móvil (Mobile) |
 | :--- | :---: | :---: |
-| **Aprendizaje Inmersivo** <br/> La misma experiencia de audio-aprendizaje sincronizado en cualquier pantalla. | <img src="./images/desktop-view.png" alt="Vista principal del audiolibro en escritorio" width="400" target="_top"/> | <img src="./images/mobile-view.png" alt="Vista principal del audiolibro en móvil" width="200" target="_top"/> |
-| **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | <img src="./images/config-desktop.png" alt="Modal de configuración en escritorio" width="400" target="_top"/> | <img src="./images/config-mobile.png" alt="Modal de configuración en móvil" width="200" target="_top"/> |
-| **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | <img src="./images/activate-desktop.png" alt="Modal de activación en escritorio" width="400" target="_top"/> | <img src="./images/activate-mobile.png" alt="Modal de activación en móvil" width="200" target="_top"/> |
+| **Aprendizaje Inmersivo** <br/> La misma experiencia de audio-aprendizaje sincronizado en cualquier pantalla. | <img src="./images/desktop-view.png" alt="Vista principal del audiolibro en escritorio" width="550" target="_top"/> | <img src="./images/mobile-view.png" alt="Vista principal del audiolibro en móvil" width="220" target="_top"/> |
+| **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | <img src="./images/config-desktop.png" alt="Modal de configuración en escritorio" width="550" target="_top"/> | <img src="./images/config-mobile.png" alt="Modal de configuración en móvil" width="220" target="_top"/> |
+| **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | <img src="./images/activate-desktop.png" alt="Modal de activación en escritorio" width="550" target="_top"/> | <img src="./images/activate-mobile.png" alt="Modal de activación en móvil" width="220" target="_top"/> |
 
 ***
 
