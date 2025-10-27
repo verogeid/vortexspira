@@ -6,6 +6,14 @@
 
 ***
 
+## **🚀 ¡Únete a la Lista de Fundadores!**
+
+**Sé el primero en acceder a VortexSpira® y asegura tu descuento de lanzamiento de más del 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
+
+> **[➡️ Sí, quiero mi acceso prioritario y descuento exclusivo](https://subscribepage.io/vortexspira)**
+
+***
+
 ## ✨ **Ingeniería de la Experiencia (UX) y Accesibilidad Total**
 
 El valor de VortexSpira reside en su diseño técnico, optimizado para la eficiencia y la continuidad del aprendizaje:
