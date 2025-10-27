@@ -14,6 +14,27 @@
 
 ***
 
+### **🎁 Freemium por Defecto: Prueba Antes de Comprar**
+
+VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
+
+Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido directamente desde la plataforma.
+
+***
+
+## 📸 Un Vistazo a la Plataforma VortexSpira®
+
+Así es como se ve y se siente el aprendizaje sin fricción. Una interfaz limpia y potente, tanto en escritorio como en móvil.
+
+| Característica Clave | Interfaz de la Plataforma |
+| :--- | :---: |
+| **Aprendizaje Inmersivo y Sincronizado** <br/> La voz del mentor se sincroniza a la perfección con el texto resaltado, guiándote en cada paso. | ![Vista principal del audiolibro](./images/desktop-view.png) |
+| **Control Total y Personalización** <br/> Tu "joya de la corona": ajusta fuentes, tamaños, y personaliza la voz y el tono de cada personaje para una experiencia a tu medida. | ![Modal de configuración de voces y fuente](./images/config-desktop.png) |
+| **Ecosistema y Biblioteca de Cursos** <br/> Activa tus productos y descubre nuevos cursos para ampliar tu biblioteca de conocimientos desde un único lugar. | ![Modal de activación de productos y catálogo](./images/activate-desktop.png) |
+| **Acceso y Progreso Visual** <br/> Tu mapa de aprendizaje es claro. Accede a tus capítulos y visualiza los módulos bloqueados (🔒), listos para ser desbloqueados. | ![Selector de capítulos con módulos bloqueados y desbloqueados](./images/freemium-desktop.png) |
+
+***
+
 ## ✨ **Ingeniería de la Experiencia (UX) y Accesibilidad Total**
 
 El valor de VortexSpira reside en su diseño técnico, optimizado para la eficiencia y la continuidad del aprendizaje:
