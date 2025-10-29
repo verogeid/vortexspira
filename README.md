@@ -1,14 +1,12 @@
-***
-
 # **🌪️ VortexSpira®: Tu Mentor de Audio-Aprendizaje para la Arquitectura Web y QA**
 
 *Transformamos tu carrera con una **experiencia de inmersión sensorial hands-free**, eliminando la fricción del vídeo para que te centres en la práctica y la transformación técnica.*
 
 ***
 
-## **🚀 ¡Únete a la Lista de Fundadores!**
+## **🚀 ¡Únete a la Lista de Fundadores! (Pre-Lanzamiento)**
 
-**Sé el primero en acceder a VortexSpira® y asegura tu descuento de lanzamiento de más del 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
+La plataforma se lanzará a principios de 2025. **Sé el primero en acceder y asegura tu descuento de lanzamiento de más del 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
 
 > **[➡️ Sí, quiero mi acceso prioritario y descuento exclusivo](https://subscribepage.io/vortexspira)**
 
@@ -21,7 +19,7 @@ VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, l
 Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
 
 <div align="center">
-  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" height="300" target="_top"/>
+  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
 </div>
 
 ***
@@ -35,6 +33,26 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 | **Aprendizaje Inmersivo** <br/> La misma experiencia de audio-aprendizaje sincronizado en cualquier pantalla. | <img src="./images/desktop-view.png" alt="Vista principal del audiolibro en escritorio" height="300" target="_top"/> | <img src="./images/mobile-view.png" alt="Vista principal del audiolibro en móvil" height="220" target="_top"/> |
 | **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | <img src="./images/config-desktop.png" alt="Modal de configuración en escritorio" height="300" target="_top"/> | <img src="./images/config-mobile.png" alt="Modal de configuración en móvil" height="220" target="_top"/> |
 | **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | <img src="./images/activate-desktop.png" alt="Modal de activación en escritorio" height="300" target="_top"/> | <img src="./images/activate-mobile.png" alt="Modal de activación en móvil" height="220" target="_top"/> |
+
+***
+
+## 🤝 Una Alianza de Confianza
+
+Para asegurar que nuestra formación de QA sea la más relevante y de mayor impacto del mercado, VortexSpira® se ha asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana. Juntos, estamos creando la próxima generación de Arquitectos de Calidad.
+
+<div align="center">
+  <img src="./images/logo-testeandoya.png" alt="Logo de TesteandoYa" width="200"/>
+</div>
+
+***
+
+## 👤 Del Arquitecto: Una Plataforma Nacida de la Experiencia
+
+<img src="./images/tu-foto-de-perfil.jpg" alt="Diego González Fernández" width="150" align="right"/>
+
+VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: crear un entorno de aprendizaje que respete la carga cognitiva y elimine la ansiedad de la formación técnica.
+
+Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
 ***
 
