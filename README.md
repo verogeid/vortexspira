@@ -49,6 +49,10 @@ El valor de VortexSpira reside en su diseño técnico, optimizado para la eficie
 * **Navegación *Hands-Free*:** Controla la reproducción (Parar, Siguiente/Anterior Frase) desde el **teclado multimedia** o la **ventana minimizada**.
 * **Guía Visual Contextual (Modo Desktop - En Desarrollo):** Un modal de visualizaciones mostrará una **captura de pantalla sincronizada** con el *highlight* para guiar al alumno en las implicaciones del código en el navegador o en la localización de menús de herramientas.
 
+### 🗣️ **Voces Inteligentes y Adaptables**
+
+VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador y sistema operativo. Prioriza automáticamente las de mayor calidad (como Google si estás online) y conmuta a las voces locales si pierdes la conexión, garantizando un aprendizaje ininterrumpido. La variedad y calidad dependen de tu navegador (Chrome/Edge suelen ser los mejores) y de los **paquetes de idioma instalados en tu sistema operativo**. Para más opciones, simplemente instala los paquetes de voz completos desde la configuración de idioma de tu Windows, macOS o Linux.
+
 ### 🔗 **Continuidad y Portabilidad (Multidispositivo)**
 
 * **Diseño 100% Responsive:** La interfaz está diseñada para adaptarse perfectamente a cualquier tamaño de pantalla, desde móviles y tabletas hasta ordenadores de escritorio.
