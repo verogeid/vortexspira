@@ -45,9 +45,13 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 
 La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma está diseñada siguiendo las **mejores prácticas para la accesibilidad cognitiva**, pensando específicamente en usuarios con **fatiga cognitiva** (como la causada por la Esclerosis Múltiple) o **divergencias de atención** (como el TDAH).
 
-* **Foco Guiado (Audio + Highlight):** La sincronización perfecta de la voz del mentor con el texto resaltado reduce drásticamente la carga cognitiva. El cerebro no tiene que gastar energía en "mantener la posición" en un muro de texto; es guiado de forma natural, permitiendo que toda la atención se centre en la **comprensión**, no en la navegación.
+**La clave es el Foco Guiado (Audio + Highlight).** La sincronización perfecta de la voz del mentor con el texto resaltado reduce drásticamente la carga cognitiva. El cerebro no tiene que gastar energía en "mantener la posición" en un muro de texto; es guiado de forma natural, permitiendo que toda la atención se centre en la **comprensión**, no en la navegación.
 
-* **Separación de Estímulos (Texto vs. Imágenes):** Al presentar las imágenes de forma contextual (en un modal o en una esquina) y separadas del flujo principal de texto, evitamos la sobrecarga sensorial. El usuario procesa un tipo de información a la vez —texto o imagen—, una técnica fundamental para mantener la concentración y prevenir el agotamiento.
+<div align="center">
+  <img src="./images/vortexspira-demo.gif" alt="Demostración del audiolibro interactivo VortexSpira" width="700" target="_top"/>
+</div>
+
+Además, la **Separación de Estímulos (Texto vs. Imágenes)** evita la sobrecarga sensorial. Al presentar las imágenes de forma contextual (en un modal o en una esquina) y separadas del flujo principal de texto, el usuario procesa un tipo de información a la vez, una técnica fundamental para mantener la concentración y prevenir el agotamiento.
 
 <div align="right">
 
