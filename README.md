@@ -96,6 +96,23 @@ VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador
 
 ***
 
+## 🚀 Más Allá de los Cursos: Una Herramienta para Creadores Educativos
+
+VortexSpira® no es solo una plataforma para consumir cursos; es también una **herramienta de autor** diseñada para empoderar a los educadores y eliminar la barrera tecnológica.
+
+Bajo una licencia institucional especial (gratuita para administraciones públicas y asociaciones), los profesores de educación especial reciben un manual mínimo. Con él, pueden usar un simple **editor de textos en su propio móvil** para crear lecciones didácticas totalmente compatibles con nuestra plataforma.
+
+El proceso es de una simplicidad radical:
+1.  El profesor **crea** el contenido en un archivo de texto.
+2.  Lo **comparte** directamente con el alumno (por email, WhatsApp, etc.).
+3.  El alumno **importa** ese archivo en su PWA de VortexSpira®.
+
+El resultado es un material de estudio personalizado y altamente accesible que el alumno puede **consumir de forma inmediata**, con todas las ventajas de control, personalización y "Ansiedad Cero" de la plataforma.
+
+Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogía el poder de "ingeniar" su propio contenido, sin fricción.
+
+***
+
 ### **🎯 Conviértete en Arquitecto o QA Holístico: Tu Dominio Técnico Comienza Aquí.**
 
 ---
