@@ -12,18 +12,6 @@ La plataforma se lanzará a principios de 2025. **Sé el primero en acceder y as
 
 ***
 
-### **🎁 Freemium por Defecto: Prueba Antes de Comprar**
-
-VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
-
-Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
-
-<div align="center">
-  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
-</div>
-
-***
-
 ## 📸 Un Vistazo a la Plataforma (Desktop vs. Mobile)
 
 Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya sea en tu escritorio o en tu móvil.
@@ -36,23 +24,13 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 
 ***
 
-## 🤝 Una Alianza de Confianza
+## 🧠 Diseño Basado en la Ciencia Cognitiva: Combatiendo la Fatiga
 
-Para asegurar que nuestra formación de QA sea la más relevante y de mayor impacto del mercado, VortexSpira® se ha asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana. Juntos, estamos creando la próxima generación de Arquitectos de Calidad.
+La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma está diseñada siguiendo las **mejores prácticas para la accesibilidad cognitiva**, pensando específicamente en usuarios con **fatiga cognitiva** (como la causada por la Esclerosis Múltiple) o **divergencias de atención** (como el TDAH).
 
-<div align="center">
-  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200"/>
-</div>
+* **Foco Guiado (Audio + Highlight):** La sincronización perfecta de la voz del mentor con el texto resaltado reduce drásticamente la carga cognitiva. El cerebro no tiene que gastar energía en "mantener la posición" en un muro de texto; es guiado de forma natural, permitiendo que toda la atención se centre en la **comprensión**, no en la navegación.
 
-***
-
-## 👤 Del Arquitecto: Una Plataforma Nacida de la Experiencia
-
-<img src="./images/Diego.jpeg" alt="Diego González Fernández" width="150" align="right"/>
-
-VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: crear un entorno de aprendizaje que respete la carga cognitiva y elimine la ansiedad de la formación técnica.
-
-Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
+* **Separación de Estímulos (Texto vs. Imágenes):** Al presentar las imágenes de forma contextual (en un modal o en una esquina) y separadas del flujo principal de texto, evitamos la sobrecarga sensorial. El usuario procesa un tipo de información a la vez —texto o imagen—, una técnica fundamental para mantener la concentración y prevenir el agotamiento.
 
 ***
 
@@ -93,6 +71,38 @@ VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador
 * **🎓 Validación de Conocimientos (En Desarrollo):** Cada producto adquirido en tu catálogo incluirá un **enlace directo (🏆) al examen de certificación** correspondiente en Hotmart, donde obtendrás tu certificado de conocimientos, verificable con QR.
 * **✍️ Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y **debes marcarlas todas** para acertar. Se requiere un 70% para aprobar.
 * **🔒 Acceso Visual:** Los capítulos se desbloquean en tiempo real en el selector, reemplazando el candado (visible si no se ha adquirido el módulo).
+
+***
+
+## 👤 Del Arquitecto: Una Plataforma Nacida de la Experiencia
+
+<img src="./images/Diego.jpeg" alt="Diego González Fernández" width="150" align="right"/>
+
+VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: crear un entorno de aprendizaje que respete la carga cognitiva y elimine la ansiedad de la formación técnica.
+
+Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
+
+***
+
+## 🤝 Una Alianza de Confianza
+
+Para asegurar que nuestra formación de QA sea la más relevante y de mayor impacto del mercado, VortexSpira® se ha asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana. Juntos, estamos creando la próxima generación de Arquitectos de Calidad.
+
+<div align="center">
+  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200"/>
+</div>
+
+***
+
+### **🎁 Freemium por Defecto: Prueba Antes de Comprar**
+
+VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
+
+Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
+
+<div align="center">
+  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
+</div>
 
 ***
 
