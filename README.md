@@ -41,7 +41,7 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 Para asegurar que nuestra formación de QA sea la más relevante y de mayor impacto del mercado, VortexSpira® se ha asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana. Juntos, estamos creando la próxima generación de Arquitectos de Calidad.
 
 <div align="center">
-  <img src="./images/logo-testeandoya.png" alt="Logo de TesteandoYa" width="200"/>
+  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200"/>
 </div>
 
 ***
