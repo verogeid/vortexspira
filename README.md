@@ -12,6 +12,7 @@ La plataforma se lanzará a principios de 2025. **Sé el primero en acceder y as
 
 ***
 
+<a id="indice"></a>
 <div align="center">
 
 [Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Características](#caracteristicas) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
@@ -31,6 +32,12 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 | **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | <img src="./images/config-desktop.png" alt="Modal de configuración en escritorio" height="300" target="_top"/> | <img src="./images/config-mobile.png" alt="Modal de configuración en móvil" height="220" target="_top"/> |
 | **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | <img src="./images/activate-desktop.png" alt="Modal de activación en escritorio" height="300" target="_top"/> | <img src="./images/activate-mobile.png" alt="Modal de activación en móvil" height="220" target="_top"/> |
 
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
 ***
 
 <a id="diseno-cognitivo"></a>
@@ -41,6 +48,12 @@ La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma
 * **Foco Guiado (Audio + Highlight):** La sincronización perfecta de la voz del mentor con el texto resaltado reduce drásticamente la carga cognitiva. El cerebro no tiene que gastar energía en "mantener la posición" en un muro de texto; es guiado de forma natural, permitiendo que toda la atención se centre en la **comprensión**, no en la navegación.
 
 * **Separación de Estímulos (Texto vs. Imágenes):** Al presentar las imágenes de forma contextual (en un modal o en una esquina) y separadas del flujo principal de texto, evitamos la sobrecarga sensorial. El usuario procesa un tipo de información a la vez —texto o imagen—, una técnica fundamental para mantener la concentración y prevenir el agotamiento.
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
 
 ***
 
@@ -83,6 +96,12 @@ VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador
 * **✍️ Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y **debes marcarlas todas** para acertar. Se requiere un 70% para aprobar.
 * **🔒 Acceso Visual:** Los capítulos se desbloquean en tiempo real en el selector, reemplazando el candado (visible si no se ha adquirido el módulo).
 
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
 ***
 
 <a id="arquitecto"></a>
@@ -94,6 +113,12 @@ VortexSpira® es una plataforma creada y diseñada por **Diego González Fernán
 
 Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
 ***
 
 <a id="alianza"></a>
@@ -103,6 +128,12 @@ Para asegurar que nuestra formación de QA sea la más relevante y de mayor impa
 
 <div align="center">
   <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200"/>
+</div>
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
 </div>
 
 ***
@@ -116,6 +147,12 @@ Podrás explorar la interfaz, probar la metodología y aprender los fundamentos 
 
 <div align="center">
   <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
+</div>
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
 </div>
 
 ***
@@ -136,6 +173,12 @@ El resultado es un material de estudio personalizado y altamente accesible que e
 
 Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogía el poder de "ingeniar" su propio contenido, sin fricción.
 
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
 ***
 
 ### **🎯 Conviértete en Arquitecto o QA Holístico: Tu Dominio Técnico Comienza Aquí.**
@@ -154,6 +197,12 @@ La plataforma **VortexSpira®** es un software comercial propietario.
 * La creación intelectual de la plataforma está registrada en **Safe Creative** ([**🛡️ Registro de Derechos**](https://www.safecreative.org)).
 
 El **contenido de los cursos** que se ejecutan en esta plataforma se licencia por separado bajo sus propios términos al adquirir cada producto.
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
 
 ---
 
