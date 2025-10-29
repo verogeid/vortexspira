@@ -53,6 +53,7 @@ La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma
   <sub><em>Nota: El modal de imágenes sincronizadas está en desarrollo. El texto mostrado pertenece a una versión beta del curso 'Arquitecto Web' y no representa el contenido final.</em></sub>
 </div>
 
+
 Además, la **Separación de Estímulos (Texto vs. Imágenes)** evita la sobrecarga sensorial. Al presentar las imágenes de forma contextual (en un modal o en una esquina) y separadas del flujo principal de texto, el usuario procesa un tipo de información a la vez, una técnica fundamental para mantener la concentración y prevenir el agotamiento.
 
 <div align="right">
