@@ -48,7 +48,7 @@ Para asegurar que nuestra formación de QA sea la más relevante y de mayor impa
 
 ## 👤 Del Arquitecto: Una Plataforma Nacida de la Experiencia
 
-<img src="./images/tu-foto-de-perfil.jpg" alt="Diego González Fernández" width="150" align="right"/>
+<img src="./images/Diego.jpg" alt="Diego González Fernández" width="150" align="right"/>
 
 VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: crear un entorno de aprendizaje que respete la carga cognitiva y elimine la ansiedad de la formación técnica.
 
