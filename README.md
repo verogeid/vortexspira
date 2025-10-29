@@ -6,7 +6,7 @@
 
 ## **🚀 ¡Únete a la Lista de Fundadores! (Pre-Lanzamiento)**
 
-La plataforma se lanzará a principios de 2025. **Sé el primero en acceder y asegura tu descuento de lanzamiento de más del 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
+La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y asegura tu descuento de lanzamiento de más del 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
 
 > **[➡️ Sí, quiero mi acceso prioritario y descuento exclusivo](https://subscribepage.io/vortexspira)**
 
