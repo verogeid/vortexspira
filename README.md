@@ -50,7 +50,7 @@ La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma
 <div align="center">
   <img src="./images/vortexspira-demo.gif" alt="Demostración del audiolibro interactivo VortexSpira" width="700" target="_top"/>
   <br/>
-  <sub><em>Nota: El modal de imágenes sincronizadas está en desarrollo. El texto mostrado pertenece a una versión beta del curso 'Arquitecto Web' y no representa el contenido final.</em></sub>
+  <sub><em>Nota: El modal de imágenes sincronizadas está en desarrollo. El texto mostrado pertenece a una versión beta del curso 'Arquitecto Web' y no representa el contenido final.</em><br/></sub>
 </div>
 
 
