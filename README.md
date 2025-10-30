@@ -140,6 +140,8 @@ Para asegurar que nuestra formación de QA sea la más relevante y de mayor impa
   <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200"/>
 </div>
 
+<br />
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
@@ -157,7 +159,11 @@ Podrás explorar la interfaz, probar la metodología y aprender los fundamentos 
 
 <div align="center">
   <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
+<br />
+<sub><em>Nota: El índice mostrado pertenece a una versión beta del curso 'Arquitecto Web' y no representa el contenido final.</em></sub>
 </div>
+
+<br />
 
 <div align="right">
 
