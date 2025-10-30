@@ -117,7 +117,9 @@ VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador
 
 <img src="./images/Diego.jpeg" alt="Diego González Fernández" width="150" align="right"/>
 
-VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: crear un entorno de aprendizaje que respete la carga cognitiva y elimine la ansiedad de la formación técnica.
+VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: buscaba crear un **audiolibro multilenguaje** para aprender idiomas de forma inmersiva, pero también una herramienta que se adaptara a mi "hardware" mental (pensamiento no lineal y memoria asociativa) y a mi "software" (pensamiento lateral).
+
+Esta arquitectura personal es la que condiciona mi forma de explicar y enseñar, buscando siempre el "porqué" y el "sistema" debajo de la "palabrería".
 
 Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
