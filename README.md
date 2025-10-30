@@ -1,4 +1,4 @@
-# **🌪️ VortexSpira®: Tu Mentor de Audio-Aprendizaje para la Arquitectura Web y QA**
+# <img src="./images/logo.svg" alt="VortexSpira Logo" height="40" target="_top"/> **VortexSpira®: Tu Mentor de Audio-Aprendizaje para la Arquitectura Web y QA**
 
 *Transformamos tu carrera con una **experiencia de inmersión sensorial hands-free**, eliminando la fricción del vídeo para que te centres en la práctica y la transformación técnica.*
 
