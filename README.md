@@ -123,6 +123,27 @@ Esta arquitectura personal es la que condiciona mi forma de explicar y enseñar,
 
 Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
+### 🏗️ Arquitecto y Escultor: Un Proceso de Refinamiento Holístico
+
+Mi rol en la creación de VortexSpira® es el de un **arquitecto y escultor de software**. Defino la visión y la arquitectura, y luego me apalanco en la IA como un asistente de ejecución de alta velocidad que me entrega la "materia prima" funcional.
+
+Pero la verdadera ingeniería empieza ahí. **El trabajo no es pedir, es refinar.**
+
+Un ejemplo perfecto es la implementación del *dark mode*. La IA generó un primer borrador funcional, pero con una deuda técnica masiva: duplicaba todas las variables y reglas CSS para ambos modos, creando una redundancia insostenible.
+
+Mi trabajo como escultor fue **"quitar el mármol sobrante"** y aplicar la calidad holística. Tomé ese código y:
+1.  **Refactoricé la arquitectura CSS** por completo.
+2.  Centralicé las reglas para que existieran **una sola vez**.
+3.  Definí las variables de color para *light mode* como base.
+4.  Usé un único bloque `@media` para **sobrescribir únicamente** las variables de color en *dark mode*.
+5.  Aproveché para renombrar elementos del DOM, mejorando la **legibilidad y la mantenibilidad** futura.
+
+Este es mi proceso de construcción. Es un **bucle de retroalimentación continuo** donde realizo un riguroso **análisis funcional y no funcional** en cada incremento.
+
+Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectónica que la IA no puede prever. Mi labor como arquitecto es **preparar el código desde el minuto cero para la escalabilidad**, dejando la estructura lista (los "conductos en la pared") para incorporar funcionalidades futuras que ya he contemplado.
+
+Este ciclo de **visión estratégica, ejecución asistida y refactorización senior** es la única forma de garantizar que la plataforma no solo funcione, sino que esté construida con una calidad "inexpugnable" y preparada para el futuro.
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
