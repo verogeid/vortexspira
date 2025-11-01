@@ -213,6 +213,8 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
+  <br/>
+  <sub><em>Nota: Los archivos .vsl (VortexSpira Lesson) son un formato propio basado en Markdown enriquecido.</em></sub>
 </div>
 
 <br />
