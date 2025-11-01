@@ -26,11 +26,12 @@ La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y as
 
 Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya sea en tu escritorio o en tu móvil.
 
+
 | Característica Clave | Vista de Escritorio (Desktop) | Vista Móvil (Mobile) |
 | :--- | :---: | :---: |
-| **Aprendizaje Inmersivo** <br/> La misma experiencia de audio-aprendizaje sincronizado en cualquier pantalla. | <img src="./images/desktop-view.png" alt="Vista principal del audiolibro en escritorio" height="300" target="_top"/> | <img src="./images/mobile-view.png" alt="Vista principal del audiolibro en móvil" height="220" target="_top"/> |
-| **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | <img src="./images/config-desktop.png" alt="Modal de configuración en escritorio" height="300" target="_top"/> | <img src="./images/config-mobile.png" alt="Modal de configuración en móvil" height="220" target="_top"/> |
-| **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | <img src="./images/activate-desktop.png" alt="Modal de activación en escritorio" height="300" target="_top"/> | <img src="./images/activate-mobile.png" alt="Modal de activación en móvil" height="220" target="_top"/> |
+| **Aprendizaje Inmersivo** <br/> La misma experiencia de audio-aprendizaje sincronizado en cualquier pantalla. | <img src="./images/desktop-view.png" alt="Vista principal del audiolibro en escritorio" height="300" target="_top" style="border-radius: 10px;"/> | <img src="./images/mobile-view.png" alt="Vista principal del audiolibro en móvil" height="220" target="_top" style="border-radius: 10px;"/> |
+| **Control Total** <br/> Tu "joya de la corona": la personalización de voces, tono y fuentes, totalmente accesible en móvil. | <img src="./images/config-desktop.png" alt="Modal de configuración en escritorio" height="300" target="_top" style="border-radius: 10px;"/> | <img src="./images/config-mobile.png" alt="Modal de configuración en móvil" height="220" target="_top" style="border-radius: 10px;"/> |
+| **Ecosistema y Licencias** <br/> Activa tus productos y amplía tu biblioteca desde cualquier dispositivo. | <img src="./images/activate-desktop.png" alt="Modal de activación en escritorio" height="300" target="_top" style="border-radius: 10px;"/> | <img src="./images/activate-mobile.png" alt="Modal de activación en móvil" height="220" target="_top" style="border-radius: 10px;"/> |
 
 <div align="right">
 
@@ -48,7 +49,7 @@ La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma
 **La clave es el Foco Guiado (Audio + Highlight).** La sincronización perfecta de la voz del mentor con el texto resaltado reduce drásticamente la carga cognitiva. El cerebro no tiene que gastar energía en "mantener la posición" en un muro de texto; es guiado de forma natural, permitiendo que toda la atención se centre en la **comprensión**, no en la navegación.
 
 <div align="center">
-  <img src="./images/vortexspira-demo.gif" alt="Demostración del audiolibro interactivo VortexSpira" width="700" target="_top"/>
+  <img src="./images/vortexspira-demo.gif" alt="Demostración del audiolibro interactivo VortexSpira" width="700" target="_top" style="border-radius: 10px;"/>
   <br/>
   <sub><em>Nota: El modal de imágenes sincronizadas está en desarrollo. El texto mostrado pertenece a una versión beta del curso 'Arquitecto Web' y no representa el contenido final.</em></sub>
 </div>
@@ -115,7 +116,7 @@ VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador
 <a id="arquitecto"></a>
 ## 👤 Del Arquitecto: Una Plataforma Nacida de la Experiencia
 
-<img src="./images/Diego.jpeg" alt="Diego González Fernández" width="150" align="right"/>
+<img src="./images/Diego.jpeg" alt="Diego González Fernández" width="150" align="right" style="border-radius: 10px;"/>
 
 VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Nació de una necesidad personal: buscaba crear un **audiolibro multilenguaje** para aprender idiomas de forma inmersiva, pero también una herramienta que se adaptara a mi "hardware" mental (pensamiento no lineal y memoria asociativa) y a mi "software" (pensamiento lateral).
 
@@ -158,7 +159,7 @@ Este ciclo de **visión estratégica, ejecución asistida y refactorización sen
 Para asegurar que nuestra formación de QA sea la más relevante y de mayor impacto del mercado, VortexSpira® se ha asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana. Juntos, estamos creando la próxima generación de Arquitectos de Calidad.
 
 <div align="center">
-  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200"/>
+  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200" style="border-radius: 10px;"/>
 </div>
 
 <br />
@@ -179,7 +180,7 @@ VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, l
 Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
 
 <div align="center">
-  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top"/>
+  <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top" style="border-radius: 10px;"/>
 <br />
 <sub><em>Nota: El índice mostrado pertenece a una versión beta del curso 'Arquitecto Web' y no representa el contenido final.</em></sub>
 </div>
