@@ -75,7 +75,8 @@ El valor de VortexSpira reside en su diseño técnico, optimizado para la eficie
 
 * **Sincronización Total (Highlight & Voz):** La plataforma ofrece una sincronización perfecta entre el resaltado visual de la frase y la voz del mentor.
 * **Selección de Voces por Rol:** Configura y personaliza la voz y el **tono** para cada rol (Narrador, Lector de Código, Consejos), mejorando la diferenciación auditiva.
-* **Navegación *Hands-Free*:** Controla la reproducción (Parar, Siguiente/Anterior Frase) desde el **teclado multimedia** o la **ventana minimizada**.
+* **Dictado Amigable (Visual vs. Audio):** El núcleo del formato `.vsl` es la capacidad de **desacoplar el texto que se muestra del texto que se lee**. Esto permite que el "Lector de Código" narre el código de forma natural (ej: "creamos la constante equis") mientras el usuario ve el código literal (ej: `const x = 1;`), eliminando la principal fuente de fricción del audio-aprendizaje técnico.
+* **Navegación *Hands-Free*:** Controla la reproducción (Reproducir/Parar, Siguiente/Anterior Frase, Reiniciar capítulo) desde el **teclado multimedia** con la **ventana minimizada**.
 * **Guía Visual Contextual (Modo Desktop - En Desarrollo):** Un modal de visualizaciones mostrará una **captura de pantalla sincronizada** con el *highlight* para guiar al alumno en las implicaciones del código en el navegador o en la localización de menús de herramientas.
 
 ### 🗣️ **Voces Inteligentes y Adaptables**
