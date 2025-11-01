@@ -145,6 +145,14 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 
 Este ciclo de **visión estratégica, ejecución asistida y refactorización senior** es la única forma de garantizar que la plataforma no solo funcione, sino que esté construida con una calidad "inexpugnable" y preparada para el futuro.
 
+### 🛡️ Arquitectura de Seguridad "Inexpugnable"
+
+No se puede enseñar ciberseguridad sin predicar con el ejemplo. Por eso, la calidad "inexpugnable" se extiende a la arquitectura de seguridad.
+
+Las licencias de usuario se emiten como **JWS Asimétricos** (firmados digitalmente) por un servicio **serverless** dedicado. Este, a su vez, se comunica con la aplicación principal usando un **JWE Rotativo con IV**, garantizando que la información del usuario no solo viaja firmada, sino también cifrada y con claves que cambian constantemente. Incluso el contenido está protegido: el usuario debe estar online para iniciar sesión o cambiar de módulo porque **cada módulo del curso está cifrado de manera independiente**.
+
+Combinado con una **sanitización agresiva por lista blanca** de todas las entradas y una filosofía de **minimización de datos** (no se guardan datos sensibles más allá del email del usuario), se crea una fortaleza por capas donde la autenticidad, la confidencialidad y la integridad están garantizadas. Los únicos datos que se almacenan son los mínimos indispensables para el servicio: la licencia global, los módulos liberados y la sincronización de progreso.
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
