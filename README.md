@@ -211,6 +211,12 @@ El resultado es un material de estudio personalizado y altamente accesible que e
 
 Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogía el poder de "ingeniar" su propio contenido, sin fricción.
 
+<div align="center">
+  <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
+</div>
+
+<br />
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
