@@ -79,9 +79,17 @@ El valor de VortexSpira reside en su diseño técnico, optimizado para la eficie
 * **Navegación *Hands-Free*:** Controla la reproducción (Reproducir/Parar, Siguiente/Anterior Frase, Reiniciar capítulo) desde el **teclado multimedia** con la **ventana minimizada**.
 * **Guía Visual Contextual (Modo Desktop - En Desarrollo):** Un modal de visualizaciones mostrará una **captura de pantalla sincronizada** con el *highlight* para guiar al alumno en las implicaciones del código en el navegador o en la localización de menús de herramientas.
 
-### 🗣️ **Voces Inteligentes y Adaptables**
+### 🗣️ **Voces Inteligentes y Adaptables (La Decisión de Arquitectura)**
 
-VortexSpira® utiliza las voces Text-to-Speech (TTS) disponibles en tu navegador y sistema operativo. Prioriza automáticamente las de mayor calidad (como Google si estás online) y conmuta a las voces locales si pierdes la conexión, garantizando un aprendizaje ininterrumpido. La variedad y calidad dependen de tu navegador (Chrome/Edge suelen ser los mejores) y de los **paquetes de idioma instalados en tu sistema operativo**. Para más opciones, simplemente instala los paquetes de voz completos desde la configuración de idioma de tu Windows, macOS o Linux.
+VortexSpira® utiliza las voces Text-to-Speech (TTS) **disponibles en tu navegador y sistema operativo**. Prioriza las de mayor calidad (online como Google) y conmuta a las locales (offline) si pierdes la conexión, garantizando un aprendizaje ininterrumpido.
+
+La variedad y calidad dependen de tu navegador (Chrome/Edge son los mejores) y de los **paquetes de idioma instalados en tu sistema operativo**. Para más opciones, simplemente instala los paquetes de voz completos desde la configuración de idioma de tu Windows, macOS o Linux.
+<sub><em>Nota: La API de Edge tiene un bug conocido que hace que no respete el tono configurado para las voces.</em></sub>
+
+Esta arquitectura local se ha elegido deliberadamente sobre el uso de voces "online premium" por razones de coste, rendimiento y arquitectura:
+1.  **Coste:** Las voces premium por API elevan los costes de licencia, lo que afectaría al precio y duración de la licencia del usuario final.
+2.  **Rendimiento:** Introducen un "lag" (latencia) inaceptable al generar el audio, rompiendo la fluidez y el *highlight* instantáneo.
+3.  **Fragmentación:** El modelo de VortexSpira se basa en la generación de audio *en tiempo real*. Un modelo de "cache" (generar y descargar cientos de archivos de audio fragmentados por cada módulo) no es escalable y haría imposible el cambio de voz o de módulo de forma instantánea.
 
 ### 🔗 **Continuidad y Portabilidad (Multidispositivo)**
 
