@@ -91,6 +91,9 @@ Esta arquitectura local se ha elegido deliberadamente sobre el uso de voces "onl
 2.  **Rendimiento:** Introducen un "lag" (latencia) inaceptable al generar el audio, rompiendo la fluidez y el *highlight* instantáneo.
 3.  **Fragmentación:** El modelo de VortexSpira se basa en la generación de audio *en tiempo real*. Un modelo de "cache" (generar y descargar cientos de archivos de audio fragmentados por cada módulo) no es escalable y haría imposible el cambio de voz o de módulo de forma instantánea.
 
+**Evolución Futura (El Motor TTS Local):**
+Para ampliar el número de voces no robóticas del **navegador**, sin caer en los problemas de coste y latencia, se está estudiando la incorporación de un **motor TTS neuronal que se ejecute 100% offline dentro de la PWA (vía WebAssembly)**. Esta arquitectura permitirá incluir voces "VS" premium por defecto en el freemium. Para ampliar aún más este **número** de voces, el usuario podrá **licenciar** "Packs de Voces" (DLC), que descargaría una sola vez para su uso 100% local y sin lag.
+
 ### 🔗 **Continuidad y Portabilidad (Multidispositivo)**
 
 * **Diseño 100% Responsive:** La interfaz está diseñada para adaptarse perfectamente a cualquier tamaño de pantalla, desde móviles y tabletas hasta ordenadores de escritorio.
