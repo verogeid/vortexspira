@@ -147,12 +147,27 @@ El núcleo de la reducción de la fatiga se centra en el **Foco Guiado** mediant
 * **Aplicación del *Bug de las Cataratas***: He implementado una solución inspirada en la forma en que el cerebro procesa la información periférica con ciertos problemas visuales. Se aplica una **máscara *blur* degradada** a las columnas o secciones en las que no está el foco.
 * **Resultado:** Esto reduce drásticamente la cantidad de información que el cerebro tiene que procesar en la visión periférica, permitiendo que **toda la atención se centre en el elemento activo**.
 
-### ⌨️ Accesibilidad por Diseño (A11Y)
+### 🖱️ Controles de Interacción (A11Y)
 
-La interfaz se construyó con la accesibilidad como requisito no funcional primario, garantizando que el diseño sea utilizable para **todos** los perfiles de usuario:
+La interfaz se construyó con la accesibilidad como requisito no funcional primario, garantizando que el diseño sea utilizable para **todos** los perfiles de usuario.
 
-* **Navegación Total con Teclado y Ratón:** Cada sección y curso es accesible y seleccionable a través de *tabs* (tecla `Tab`) o *mouse*. El **efecto *ghost* en el botón** con foco proporciona un *highlight* de alta visibilidad para guiar al usuario.
-* **Compatibilidad con Lectores de Pantalla:** Toda la estructura de navegación está debidamente etiquetada con atributos ARIA, asegurando que los usuarios con lectores de pantalla puedan entender la estructura y el contenido de las "paredes" del universo sin fricción.
+#### **Interacción con Ratón (Inmersión 3D):**
+
+* **Rotación por Drag and Drop:** El usuario puede **clicar y arrastrar** el ratón sobre el lienzo para girar la habitación cilíndrica y explorar las diferentes secciones de cursos, ofreciendo una experiencia inmersiva e intuitiva.
+* **Rotación por Rueda del Ratón (`Mouse Wheel`):** Al usar la **rueda de *scroll***, el usuario también puede girar la habitación de forma incremental, facilitando la navegación precisa sin necesidad de *drag*.
+* **Selección:** Clicar en cualquier botón lo selecciona directamente.
+
+#### **Interacción con Teclado (Manos Libres):**
+
+* **Navegación Total sin Ratón:** La navegación es completamente funcional y eficiente usando únicamente el teclado.
+* **Controles de Navegación Jerárquica:**
+    * La tecla **`Tab`** permite **cambiar entre las secciones** principales de la página (e.g., de la matriz de cursos a la ayuda rápida).
+    * Los **`Cursores`** (`↑`, `↓`, `←`, `→`) permiten **navegar entre las opciones** o cursos dentro de la sección que tiene el foco.
+* **Controles de Acción:**
+    * La **Barra Espaciadora** (`Space`) y la tecla **`Enter`** (Intro) se usan para **seleccionar** la opción o curso que tiene el foco.
+    * La tecla **`Esc`** (Escape) se usa para la acción de **"Volver"** o para cerrar el modal actual.
+* **Guía Visual:** El **efecto *ghost* en el botón** con foco proporciona un *highlight* de alta visibilidad.
+* **Compatibilidad con Lectores de Pantalla:** Toda la estructura de navegación está debidamente etiquetada con atributos ARIA.
 
 ### 📱 Diseño *Responsive* (Adaptación)
 
