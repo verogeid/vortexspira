@@ -15,7 +15,7 @@ La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y as
 <a id="indice"></a>
 <div align="center">
 
-[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Características](#caracteristicas) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
+[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
 
 </div>
 
@@ -116,6 +116,51 @@ Para ampliar el número de voces no robóticas del **navegador**, sin caer en lo
 * **🎓 Validación de Conocimientos (En Desarrollo):** Cada producto adquirido en tu catálogo incluirá un **enlace directo (🏆) al examen de certificación** correspondiente en Hotmart, donde obtendrás tu certificado de conocimientos, verificable con QR.
 * **✍️ Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y **debes marcarlas todas** para acertar. Se requiere un 70% para aprobar.
 * **🔒 Acceso Visual:** Los capítulos se desbloquean en tiempo real en el selector, reemplazando el candado (visible si no se ha adquirido el módulo).
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
+***
+
+<a id="ecosistema"></a>
+## 🌌 El Ecosistema: Diseño Anti-Fatiga del Universo VortexSpira
+
+Mi transición de **desarrollador *back-end* a Ingeniero de Calidad Integral (QA Holístico)**, con un enfoque particular en **accesibilidad, rendimiento y seguridad no funcional**, ha definido la arquitectura de la plataforma. La web de exposición de cursos, el **Universo VortexSpira**, es el primer manifiesto de esta filosofía.
+
+El objetivo de este diseño no es solo ser atractivo, sino ser **anti-fatiga cognitiva** por construcción.
+
+<div align="center">
+  <img src="./images/vortexspira-universe-demo.gif" alt="Demostración de la navegación del Universo VortexSpira con foco guiado y efecto blur" width="700" target="_top" style="border-radius: 10px;"/>
+</div>
+
+<br/>
+
+### 👁️ Foco Guiado y Reducción de Carga Cognitiva
+
+El diseño simula una **habitación cilíndrica tridimensional** donde las secciones y cursos se encuentran en las "paredes". Esto permite una navegación intuitiva que, de nuevo, minimiza la fricción mental.
+
+El núcleo de la reducción de la fatiga se centra en el **Foco Guiado** mediante una técnica innovadora:
+
+* **Aplicación del *Bug de las Cataratas***: He implementado una solución inspirada en la forma en que el cerebro procesa la información periférica con ciertos problemas visuales. Se aplica una **máscara *blur* degradada** a las columnas o secciones en las que no está el foco.
+* **Resultado:** Esto reduce drásticamente la cantidad de información que el cerebro tiene que procesar en la visión periférica, permitiendo que **toda la atención se centre en el elemento activo**.
+
+### ⌨️ Accesibilidad por Diseño (A11Y)
+
+La interfaz se construyó con la accesibilidad como requisito no funcional primario, garantizando que el diseño sea utilizable para **todos** los perfiles de usuario:
+
+* **Navegación Total con Teclado y Ratón:** Cada sección y curso es accesible y seleccionable a través de *tabs* (tecla `Tab`) o *mouse*. El **efecto *ghost* en el botón** con foco proporciona un *highlight* de alta visibilidad para guiar al usuario.
+* **Compatibilidad con Lectores de Pantalla:** Toda la estructura de navegación está debidamente etiquetada con atributos ARIA, asegurando que los usuarios con lectores de pantalla puedan entender la estructura y el contenido de las "paredes" del universo sin fricción.
+
+### 📱 Diseño *Responsive* (Adaptación)
+
+La experiencia de navegación es coherente y **sin fisuras** en cualquier factor de forma, manteniendo el mismo enfoque de reducción de carga cognitiva:
+
+* **Vista Desktop (Foco en Columnas):** Mantiene la simulación 3D y aplica el *blur* a las columnas periféricas.
+* **Vista Tablet (Foco en Fila Central):** Adapta la disposición, pero mantiene el *highlight* en el elemento central.
+* **Vista Móvil (Foco en Botón):** Se transforma en una lista vertical, donde el *blur* se sustituye por una jerarquía de enfoque clara en el botón activo.
 
 <div align="right">
 
