@@ -15,7 +15,7 @@ La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y as
 <a id="indice"></a>
 <div align="center">
 
-[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
+[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Metodología de Aprendizaje](metodologia) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
 
 </div>
 
@@ -57,6 +57,23 @@ La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma
 <br/>
 
 Además, la **Separación de Estímulos (Texto vs. Imágenes)** evita la sobrecarga sensorial. Al presentar las imágenes de forma contextual (en un modal o en una esquina) y separadas del flujo principal de texto, el usuario procesa un tipo de información a la vez, una técnica fundamental para mantener la concentración y prevenir el agotamiento.
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
+---
+
+<a id="metodologia"></a>
+## 📘 La Metodología de Aprendizaje: Entender el Porqué
+
+Nuestra arquitectura física (la plataforma) soporta una arquitectura pedagógica que **convierte tu pensamiento lateral en dominio técnico**.
+
+Para comprender cómo las **simulaciones de roles** transforman nuestro enfoque, consulta nuestro manifiesto de aprendizaje:
+
+➡️ [**Cómo Aprender en VortexSpira: El Manifiesto de la Metodología** (LEARNING.md)](./LEARNING.md)
 
 <div align="right">
 
