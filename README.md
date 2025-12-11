@@ -73,7 +73,7 @@ Nuestra arquitectura física (la plataforma) soporta una arquitectura pedagógic
 
 Para comprender cómo las **simulaciones de roles** transforman nuestro enfoque, consulta nuestro manifiesto de aprendizaje:
 
-➡️ [**Cómo Aprender en VortexSpira: El Manifiesto de la Metodología** (LEARNING.md)](./LEARNING.md)
+➡️ [**Cómo Aprender en VortexSpira: El Manifiesto de la Metodología**](./LEARNING.md)
 
 <div align="right">
 
