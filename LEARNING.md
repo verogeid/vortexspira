@@ -11,6 +11,10 @@
 
 ***
 
+[**⬅️ Volver a la Arquitectura y Características**](./README.md)
+
+***
+
 <a id="filosofia"></a>
 
 ## 1. 💡 La Filosofía: Entender el Porqué para Liderar
