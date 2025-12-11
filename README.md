@@ -15,7 +15,7 @@ La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y as
 <a id="indice"></a>
 <div align="center">
 
-[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Metodología de Aprendizaje](metodologia) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
+[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Metodología](metodologia) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
 
 </div>
 
