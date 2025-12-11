@@ -15,7 +15,7 @@ La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y as
 <a id="indice"></a>
 <div align="center">
 
-[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Metodología](metodologia) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
+[Vistazo](#vistazo) • [Diseño Cognitivo](#diseno-cognitivo) • [Metodología](metodo) • [Características](#caracteristicas) • [Ecosistema](#ecosistema) • [El Arquitecto](#arquitecto) • [Alianza](#alianza) • [Freemium](#freemium) • [Para Educadores](#educadores) • [Licencia](#licencia)
 
 </div>
 
@@ -64,9 +64,9 @@ Además, la **Separación de Estímulos (Texto vs. Imágenes)** evita la sobreca
 
 </div>
 
----
+***
 
-<a id="metodologia"></a>
+<a id="metodo"></a>
 ## 📘 La Metodología de Aprendizaje: Entender el Porqué
 
 Nuestra arquitectura física (la plataforma) soporta una arquitectura pedagógica que **convierte tu pensamiento lateral en dominio técnico**.
