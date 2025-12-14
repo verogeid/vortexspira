@@ -88,6 +88,9 @@ Para comprender cómo las **simulaciones de roles** transforman nuestro enfoque,
 
 El valor de VortexSpira reside en su diseño técnico, optimizado para la eficiencia y la continuidad del aprendizaje:
 
+### 🏆 Estándar AAA: Más Allá de la EAA (Ley Europea de Accesibilidad)
+Nuestra arquitectura es **AAA** por diseño, superando los requisitos mínimos del nivel AA exigidos por la Ley Europea de Accesibilidad. Esto garantiza la máxima usabilidad, especialmente para usuarios con requerimientos cognitivos avanzados.
+
 ### 🧠 **Zero Fricción y Guía Contextual**
 
 * **Sincronización Total (Highlight & Voz):** La plataforma ofrece una sincronización perfecta entre el resaltado visual de la frase y la voz del mentor.
