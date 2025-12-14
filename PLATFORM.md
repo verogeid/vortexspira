@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Zero Fricción](#friccion) • [TTS Local](#tts) • [Portabilidad](#portabilidad) • [Ecosistema UX](#ecosistema) • [Certificación](#certificacion) • [Licencia](#licencia)
+[Zero Fricción](#friccion) • [TTS Local](#tts) • [Portabilidad](#portabilidad) • [Ecosistema UX](#ecosistema) • [Certificación](#certificacion)
 
 </div>
 
