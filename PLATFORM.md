@@ -33,7 +33,8 @@
 <a id="tts"></a>
 ## 2. 🗣️ Voces Inteligentes y Adaptables (Arquitectura de Cero Lag)
 
-* **Decisión de Arquitectura:** Esta arquitectura local se ha elegido deliberadamente sobre las voces *online premium* por razones de coste, rendimiento (evitando el "lag" inaceptable) y fragmentación.
+* **Decisión de Arquitectura:** Voces TTS, dependientes del navegador y sistema operativo, que permiten elegir no solo el intérprete de la experiencia, sino el tono y las pausas para la reflexión. Esta arquitectura local se ha elegido deliberadamente sobre las voces *online premium* por razones de coste, rendimiento (evitando el "lag" inaceptable) y fragmentación. 
+* Recomendamos usar Chrome o Edge en sistemas Windows, dada la calidad de sus voces, pero sabiendo que Edge, por una característica de su API, no respeta el tono configurado.
 * **Evolución Futura (El Motor TTS Local):** Se está estudiando la incorporación de un **motor TTS neuronal que se ejecute 100% offline dentro de la PWA (vía WebAssembly)**.
 
 <div align="right">
@@ -47,7 +48,7 @@
 <a id="portabilidad"></a>
 ## 3. 🔗 Continuidad y Portabilidad (Detalles)
 
-* **Aprendizaje Offline Híbrido:** Consume **todo el contenido del módulo sin conexión** a internet (tras la carga inicial).
+* **Aprendizaje Offline Híbrido:** Consume **todo el contenido del módulo sin conexión** a internet (tras la carga inicial). 
 * **Sincronización Automática (En Desarrollo):** Podrás pausar una lección en un dispositivo y continuar **exactamente en la misma frase** en otro.
 
 <div align="right">
@@ -92,6 +93,9 @@ El diseño simula una **habitación cilíndrica tridimensional**.
 ## 5. 🛠️ Flujo de Licencias, Certificación y Catálogo (Detalles)
 
 * **Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y debes marcarlas todas para acertar.
+  - 50 preguntas si es un curso completo, 30 si es un módulo.
+  - 70% acertado para superar el examen.
+  - Intentos limitados. Se podrá adquirir una ampliación de intentos, a un precio reducido, para la misma certificación, pero el examen será otro.
 * **Diseño Coherente (UI):** Modales Estables para prevenir "saltos" (`CLS`).
 * **Catálogo Inteligente:** Muestra un **catálogo de productos adquiridos** y **módulos disponibles para la compra**.
 
@@ -126,4 +130,3 @@ El **contenido de los cursos** que se ejecutan en esta plataforma se licencia po
 
 © 2025 Diego González Fernández
 [LinkedIn](https://www.linkedin.com/in/diego-gonzalez-fernandez)
-
