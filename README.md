@@ -92,7 +92,7 @@ Nuestra arquitectura es **AAA** por diseño, superando los requisitos mínimos d
 
 Para conocer los **detalles técnicos** del **TTS sin Lag**, el **Dictado Amigable**, la **Portabilidad** y el **Flujo de Certificación** (ISTQB), visita:
 
-➡️ [**Arquitectura de la Plataforma y Características Técnicas**](./PLATFORM.MD)
+➡️ [**Arquitectura de la Plataforma y Características Técnicas**](./PLATFORM.md)
 
 <div align="right">
 
@@ -115,7 +115,7 @@ Mi transición a Ingeniero de Calidad Integral ha definido la arquitectura de la
 
 Para entender cómo el **Foco Guiado** (basado en el *Bug de las Cataratas*) y los **Controles A11Y Avanzados** (Navegación Total sin Ratón) reducen la carga cognitiva en la navegación 3D, visita:
 
-➡️ [**Detalles de la Arquitectura del Ecosistema y Controles A11Y**](./PLATFORM.MD#ecosistema)
+➡️ [**Detalles de la Arquitectura del Ecosistema y Controles A11Y**](./PLATFORM.md#ecosistema)
 
 <div align="right">
 
