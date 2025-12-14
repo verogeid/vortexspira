@@ -96,6 +96,7 @@ El diseño simula una **habitación cilíndrica tridimensional**.
   - 50 preguntas si es un curso completo, 30 si es un módulo.
   - 70% acertado para superar el examen.
   - Intentos limitados. Se podrá adquirir una ampliación de intentos, a un precio reducido, para la misma certificación, pero el examen será otro.
+  - QR de verificación impreso en la certificación. 
 * **Diseño Coherente (UI):** Modales Estables para prevenir "saltos" (`CLS`).
 * **Catálogo Inteligente:** Muestra un **catálogo de productos adquiridos** y **módulos disponibles para la compra**.
 
