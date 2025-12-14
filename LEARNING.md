@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Filosofía](#filosofia) • [Aprendizaje Inmersivo](#inmersivo) • [Accesibilidad Avanzada](#accesibilidad) • [La Herramienta](#herramienta) • [Licencia](#licencia)
+[Filosofía](#filosofia) • [Aprendizaje Inmersivo](#inmersivo) • [Accesibilidad Avanzada](#accesibilidad) • [La Herramienta](#herramienta)
 
 </div>
 
