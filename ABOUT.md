@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium](#freemium) • [Licencia](#licencia)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium](#freemium)
 
 </div>
 
