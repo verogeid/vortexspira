@@ -44,7 +44,7 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 <a id="diseno-cognitivo"></a>
 ## 🧠 Diseño Basado en la Ciencia Cognitiva: Combatiendo la Fatiga
 
-La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma está diseñada siguiendo las **mejores prácticas para la accesibilidad cognitiva**, pensando específicamente en usuarios con **fatiga cognitiva** (como la causada por la Esclerosis Múltiple) o **divergencias de atención** (como el TDAH).
+La ingeniería de VortexSpira® no es solo técnica, es empática. La plataforma está diseñada para superar el estándar **AAA (WCAG)**, pensando específicamente en usuarios con **fatiga cognitiva** (como la causada por la Esclerosis Múltiple) o **divergencias de atención** (como el TDAH).
 
 **La clave es el Foco Guiado (Audio + Highlight).** La sincronización perfecta de la voz del mentor con el texto resaltado reduce drásticamente la carga cognitiva. El cerebro no tiene que gastar energía en "mantener la posición" en un muro de texto; es guiado de forma natural, permitiendo que toda la atención se centre en la **comprensión**, no en la navegación.
 
