@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Licencia](#licencia)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium](#freemium) • [Licencia](#licencia)
 
 </div>
 
@@ -35,7 +35,7 @@ VortexSpira® es una plataforma creada y diseñada por **Diego González Fernán
 
 Mi rol en la creación de VortexSpira® es el de un **arquitecto y escultor de software**. Defino la visión y la arquitectura, apalancándome en la IA para la materia prima funcional.
 
-* **El trabajo no es pedir, es refinar.** Mi trabajo como escultor es aplicar la calidad holística para "quitar el mármol sobrante" y evitar la deuda técnica (ej. refactorización CSS en el *dark mode*).
+* **El trabajo es refinar.** Mi trabajo como escultor es aplicar la calidad holística para "quitar el mármol sobrante" y evitar la deuda técnica (ej. refactorización CSS en el *dark mode*).
 
 <div align="right">
 
@@ -80,10 +80,26 @@ Nos hemos asociado estratégicamente con **TesteandoYa**, la plataforma líder e
 ## 5. 🚀 Más Allá de los Cursos: Una Herramienta para Creadores Educativos
 
 * **Simplicidad Radical:** Bajo licencia institucional especial (gratuita), los profesores de educación especial pueden usar un simple **editor de textos en su propio móvil** para crear lecciones didácticas compatibles con nuestra plataforma.
+* Diseñada pensando en usuarios con TDAH, fatiga cognitiva o problemas de visión de diferente índole, para que los profesores adecuados puedan crear contenido específico y personalizado para sus alumnos.
 
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
 </div>
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
+---
+
+<a id="freemium"></a>
+## 6. 🎁 Freemium por Defecto
+
+VortexSpira® no es un producto que compras a ciegas. La plataforma se instalará como una **PWA** y ofrecerá acceso **gratuito y permanente** a los dos primeros capítulos de cada módulo, permitiéndote explorar la metodología y la interfaz antes de adquirir una licencia completa.
+
+* Puedes adquirir la licencia completa del curso o solo algunos módulos. Tú decides. Desde la propia plataforma podrás ver qué módulos o cursos te faltan. Esta licencia es, por principios, **vitalicia**, y te da acceso a un examen, con intentos limitados, para certificarte como experto.
 
 <div align="right">
 
@@ -116,4 +132,3 @@ El **contenido de los cursos** que se ejecutan en esta plataforma se licencia po
 
 © 2025 Diego González Fernández
 [LinkedIn](https://www.linkedin.com/in/diego-gonzalez-fernandez)
-
