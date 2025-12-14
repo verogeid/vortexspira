@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Zero Fricción](#friccion) • [TTS Local](#tts) • [Portabilidad](#portabilidad) • [Ecosistema UX](#ecosistema) • [Flujo de Licencias](#flujo-licencias) • [Licencia](#licencia)
+[Zero Fricción](#friccion) • [TTS Local](#tts) • [Portabilidad](#portabilidad) • [Ecosistema UX](#ecosistema) • [Certificación](#certificacion) • [Licencia](#licencia)
 
 </div>
 
@@ -92,7 +92,7 @@ La interfaz se construyó con la accesibilidad como requisito no funcional prima
 
 ---
 
-<a id="flujo-licencias"></a>
+<a id="certificacion"></a>
 ## 3. 🛠️ Flujo de Licencias, Certificación y Catálogo (Detalles)
 
 * **Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y debes marcarlas todas para acertar. Se requiere un 70% para aprobar.
