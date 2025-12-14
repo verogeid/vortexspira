@@ -89,7 +89,7 @@ El valor de VortexSpira reside en su diseño técnico optimizado para la eficien
 
 Para conocer los **detalles técnicos** (Dictado Amigable, TTS sin Lag, Portabilidad, Ecosistema 3D, Controles A11Y) y el **Flujo de Certificación** (ISTQB), visita:
 
-➡️ [**Arquitectura de la Plataforma y Características Técnicas**](./PLATFORM.MD)
+➡️ [**Arquitectura de la Plataforma y Características Técnicas**](./PLATFORM.md)
 
 <div align="right">
 
@@ -124,7 +124,7 @@ La plataforma se instalará como una PWA. Tendrás acceso **gratuito y permanent
 
 Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y el modelo para **Educadores**, visita:
 
-➡️ [**Historia, Visión y Modelo de Negocio**](./ABOUT.MD)
+➡️ [**Historia, Visión y Modelo de Negocio**](./ABOUT.md)
 
 <div align="right">
 
