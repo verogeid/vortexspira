@@ -132,12 +132,20 @@ Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y 
 
 </div>
 
-***
+---
 
 <a id="licencia"></a>
 ## Licencia y Derechos de Uso
 
-[... (Mantener el texto de la licencia aquí) ...]
+La plataforma **VortexSpira®** es un software comercial propietario.
+
+* **Copyright © 2025 Diego González Fernández.** Todos los derechos reservados.
+* El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart).
+* La distribución, modificación o ingeniería inversa del software están estrictamente prohibidas sin acuerdo previo por escrito con el autor.
+* La marca VortexSpira® está registrada o en proceso de registro.
+* La creación intelectual de la plataforma está registrada en **Safe Creative** ([**🛡️ Registro de Derechos**](https://www.safecreative.org)).
+
+El **contenido de los cursos** que se ejecutan en esta plataforma se licencia por separado bajo sus propios términos al adquirir cada producto.
 
 <div align="right">
 
