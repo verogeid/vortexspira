@@ -1,4 +1,4 @@
-# ⚙️ PLATFORM.md: Ingeniería de la Experiencia y Arquitectura Detallada
+# ⚙️ Ingeniería de la Experiencia y Arquitectura Detallada
 
 ***
 
