@@ -129,6 +129,14 @@ La interfaz se construyó con la accesibilidad como requisito no funcional prima
 * **Guía Visual:** El **efecto *ghost* en el botón** con foco proporciona un *highlight* de alta visibilidad.
 * **Compatibilidad con Lectores de Pantalla:** Toda la estructura de navegación está debidamente etiquetada con atributos ARIA.
 
+### 📱 Diseño *Responsive* (Adaptación)
+
+La experiencia de navegación es coherente y **sin fisuras** en cualquier factor de forma, manteniendo el mismo enfoque de reducción de carga cognitiva:
+
+* **Vista Desktop (Foco en Columnas):** Mantiene la simulación 3D y aplica el *blur* a las columnas periféricas.
+* **Vista Tablet (Foco en Fila Central):** Adapta la disposición, pero mantiene el *highlight* en el elemento central.
+* **Vista Móvil (Foco en Botón):** Se transforma en una lista vertical, donde el *blur* se sustituye por una jerarquía de enfoque clara en el botón activo.
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
