@@ -6,9 +6,11 @@
 
 ## **🚀 ¡Únete a la Lista de Fundadores! (Pre-Lanzamiento)**
 
-La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y asegura tu descuento de lanzamiento de hasta el 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
+La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y asegura tu descuento vitalicio de lanzamiento de hasta el 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
 
 > **[➡️ Sí, quiero mi acceso prioritario y descuento exclusivo](https://subscribepage.io/vortexspira)**
+
+Sí, has leído bien. Se te notificará la existencia de un nuevo curso que podrás adquirir a un precio rebajado, unos días antes del lanzamiento oficial.
 
 ***
 
@@ -53,9 +55,13 @@ La plataforma está diseñada para superar el estándar **AAA (WCAG)**. La clave
   <sub><em>Nota: El modal de imágenes sincronizadas está en desarrollo. El texto mostrado pertenece a una versión beta del curso 'Arquitecto Web'.</em></sub>
 </div>
 
-### B. Arquitectura de Seguridad "Inexpugnable"
+### B. Arquitectura de Seguridad
 
-No se puede enseñar ciberseguridad sin predicar con el ejemplo. Las licencias se emiten como **JWS Asimétricos** y se comunican con **JWE Rotativo con IV**. El contenido está protegido porque **cada módulo del curso está cifrado de manera independiente**.
+No se puede enseñar ciberseguridad sin predicar con el ejemplo. Por eso, la calidad se extiende a la arquitectura de seguridad.
+
+Las licencias de usuario se emiten como **JWS Asimétricos** (firmados digitalmente) por un servicio **serverless** dedicado. Este, a su vez, se comunica con la aplicación principal usando un **JWE Rotativo con IV**, garantizando que la información del usuario no solo viaja firmada, sino también cifrada y con claves que cambian constantemente. Incluso el contenido está protegido: el usuario debe estar online para iniciar sesión o cambiar de módulo porque **cada módulo del curso está cifrado de manera independiente**.
+
+Combinado con una **sanitización agresiva por lista blanca** de todas las entradas y una filosofía de **minimización de datos** (no se guardan datos sensibles más allá del email del usuario), se crea una fortaleza por capas donde la autenticidad, la confidencialidad y la integridad están garantizadas. Los únicos datos que se almacenan son los mínimos indispensables para el servicio: la licencia global, los módulos liberados y la sincronización de progreso.
 
 <div align="right">
 
