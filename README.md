@@ -6,7 +6,11 @@
 
 ## **🚀 ¡Únete a la Lista de Fundadores! (Pre-Lanzamiento)**
 
-La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y asegura tu descuento vitalicio de lanzamiento de hasta el 60%.** Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
+La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
+
+🌍 **Accesibilidad Económica:** Aplicamos **Smart Pricing (PPP)**. El precio se ajustará automáticamente a la realidad económica de tu región (LATAM/Global) para garantizar un acceso justo.
+
+Descubre la plataforma de e-learning diseñada por ingenieros, para ingenieros, que elimina la ansiedad de aprender.
 
 > **[➡️ Sí, quiero mi acceso prioritario y descuento exclusivo](https://subscribepage.io/vortexspira)**
 
