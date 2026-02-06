@@ -51,7 +51,7 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 
 ### A. Diseño Anti-Fatiga (Superando la EAA)
 
-La plataforma está diseñada para superar el estándar **AAA (WCAG)**. La clave es el **Foco Guiado (Audio + Highlight)** y la **Separación de Estímulos** (Texto vs. Imágenes), permitiendo que la atención se centre en la **comprensión**, no en la navegación.
+La plataforma implementa un **Diseño de Accesibilidad Profunda**: cumplimiento estricto **WCAG 2.1 AA** con adopción de estándares **AAA** en contraste, foco y carga cognitiva. La clave es el **Foco Guiado (Audio + Highlight)** y la **Separación de Estímulos** (Texto vs. Imágenes), permitiendo que la atención se centre en la **comprensión**, no en la navegación.
 
 <div align="center">
   <img src="./images/vortexspira-demo.gif" alt="Demostración del audiolibro interactivo VortexSpira" width="700" target="_top" style="border-radius: 10px;"/>
