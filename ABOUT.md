@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium](#freemium)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium y Accesibilidad](#freemium)
 
 </div>
 
@@ -129,11 +129,13 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 ---
 
 <a id="freemium"></a>
-## 6. 🎁 Freemium por Defecto
+## 6. 🎁 Freemium y Accesibilidad Económica
 
 VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
 
 Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
+
+Además, aplicamos principios de Equidad Económica Global. Creemos que el talento está distribuido uniformemente, pero las oportunidades no. Por eso, nuestros precios se ajustan dinámicamente según la Paridad de Poder Adquisitivo (PPP) de cada región, asegurando que el esfuerzo para acceder al conocimiento de élite sea equivalente, vivas donde vivas.
 
 <div align="right">
 
